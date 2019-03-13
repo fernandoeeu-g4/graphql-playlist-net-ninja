@@ -1,0 +1,9 @@
+treinamento 
+
+o instrutor precisa acessar o treinamento
+
+user aluno01 ate aluno030
+
+criar 30 usuarios
+
+32302710
